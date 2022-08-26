@@ -1,0 +1,49 @@
+.main{
+    background-image:  linear-gradient(180deg, #212123 0%, rgba(33, 33, 35, 0.70) 32.69%, rgba(33, 33, 35, 0.70) 70.74%, #212123 92.71%),url('./Asset/background-hair-barber.jpg') ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 800px;
+    width: 100%;
+
+}
+
+.second-section{
+    background-image:  linear-gradient(180deg, #212123 0%, rgba(33, 33, 35, 0.70) 32.69%, rgba(33, 33, 35, 0.70) 70.74%, #212123 92.71%),url('./Asset/girl-background2.jpg') ;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.card{
+    width: 300px;
+    height: 370px;
+    border-radius: 20px;
+    padding: 20px 70px;
+}
+
+#third-section{
+    background: linear-gradient(
+        to bottom,
+        #CEA36E 0%,
+        #CEA36E 80%,
+        black 80%,
+        black 100%
+    );
+}
+
+#Book-seat{
+    background-image:  linear-gradient(180deg, #212123 0%, rgba(33, 33, 35, 0.70) 32.69%, rgba(33, 33, 35, 0.70) 70.74%, #212123 92.71%),url('./Asset/handsome-man-cutting-beard-barber-salon.jpg') ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+  
+}
+
+#Blog-section{
+    background-image:  linear-gradient(180deg, #212123 0%, rgba(33, 33, 35, 0.70) 32.69%, rgba(33, 33, 35, 0.70) 70.74%, #212123 92.71%),url('./Asset/background-salone.jpg') ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100% 
+}
