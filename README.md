@@ -21,7 +21,7 @@
 -Screenshot
 
 ![Screenshot](./Asset/screenshot%20(2).png?raw=true) 
-## 📌 **Live Site URL:** <a href="https://kartikjodhani-productpage.netlify.app/"  target="_blank">**Visit Now** 🚀</a>
+## 📌 **Live Site URL:** <a href="https://kartik-barbex.netlify.app/"  target="_blank">**Visit Now** 🚀</a>
 
 ## 📌 What I Learnt
 
